@@ -1,2 +1,4 @@
-(
- "image"
+{
+ "name":"My C++",
+ "DouckerFile":"./Dockerfile",
+}
